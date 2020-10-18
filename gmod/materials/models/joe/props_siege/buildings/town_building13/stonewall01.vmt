@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "cs_italy/stonewall01"
+	"%keywords" "cstrike" 
+	"$surfaceprop" "brick"
+	"$bumpmap" "cs_italy/stonewall01_normal"
+}

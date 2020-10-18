@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "unioncity/facades/lpexterior"
+	//$envmap	"env_cubemap"
+	//$envmapmask "unioncity/facades/lpexterior_s"
+	//$envmaptint "[ 0.5 0.5 0.5 ]"
+	
+	$surfaceprop brick
+}
