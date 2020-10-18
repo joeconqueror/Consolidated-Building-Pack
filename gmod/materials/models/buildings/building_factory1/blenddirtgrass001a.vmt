@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nature/dirtfloor012a"
+
+	"%tooltexture" "nature/blenddirtgrass001a_tooltexture"
+        "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0  translate 0 0"
+
+	//"%detailtype" "coastline_grass02"
+	"%keywords" "wasteland"
+	"$surfaceprop" "dirt"
+}
