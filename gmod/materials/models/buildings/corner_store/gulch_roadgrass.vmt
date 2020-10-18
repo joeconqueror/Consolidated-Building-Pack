@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nature/grassfloor002a"
+
+	"$surfaceprop" "grass"
+
+	//"$basetexturetransform" "center .5 .5 scale 0.5 0.5 rotate 0 translate 0 0"
+}

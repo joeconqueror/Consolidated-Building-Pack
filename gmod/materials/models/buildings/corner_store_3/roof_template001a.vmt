@@ -1,0 +1,20 @@
+
+// valve @ original shader
+// v92 @ remaster
+
+vertexlitgeneric
+{
+
+	$basetexture building_template/roof_template001a
+	$bumpmap building_template/roof_template001a_normal
+
+	$surfaceprop concrete
+
+	$detail detail/bms/bm_concrete_detail_01
+	$detailscale 7.740
+	$detailblendfactor 0.8
+	$detailblendmode 0
+
+	%keywords "hl2, concrete, roof, building, building_template, detail, bump"
+
+}
