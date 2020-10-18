@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "wood/ah_thatch_roof003"
+	"%keywords" "rnl_wood"
+	"$surfaceprop" "wood"
+}
