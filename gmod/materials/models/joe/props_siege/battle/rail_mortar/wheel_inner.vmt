@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+
+	"$basetexture" 	"proppertextures/metal/wheel_inner"
+
+	"$halflambert" "1"
+
+	"$override" "{255 255 255}"
+	proxies
+	{
+		equals
+		{
+			srcvar1 $override
+			resultvar $color
+		}
+	
+	}
+
+}

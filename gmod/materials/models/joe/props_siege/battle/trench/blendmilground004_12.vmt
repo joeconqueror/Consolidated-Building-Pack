@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 	"nature/milground004"
+
+	//"%tooltexture""nature/milground004_12_tooltexture"
+	"$surfaceprop" 	"dirt"
+}
