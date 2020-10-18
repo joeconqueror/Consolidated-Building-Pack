@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity/oldny/bricks_old1"
+
+	
+	$surfaceprop brick
+
+}

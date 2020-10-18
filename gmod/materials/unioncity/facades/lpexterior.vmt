@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity/facades/LPexterior"
+	//$envmap	"env_cubemap"
+	//$envmapmask "unioncity/facades/LPexterior_s"
+	//$envmaptint "[ 0.5 0.5 0.5 ]"
+	
+	$surfaceprop brick
+}
