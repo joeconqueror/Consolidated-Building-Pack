@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "hl2_leak/stone/stonerail001a"
+	"$surfaceprop" "concrete"
+	
+	$color "[.6 .6 .6]"
+}
