@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+	"$basetexture"	"wood\milroof003"
+	"$alphatest" "1"
+	"$surfaceprop" "wood_plank"
+
+}
