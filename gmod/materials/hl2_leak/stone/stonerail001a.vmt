@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hl2_leak/Stone/stonerail001a"
+	"$surfaceprop" "concrete"
+	
+	$color "[.6 .6 .6]"
+}
