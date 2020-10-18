@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture"  "hl2_leak/stone/stonewall039g"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown,wasteland"
+	
+	$color2 "[.6 .6 .6]"
+}

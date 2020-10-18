@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "hl2_leak/stone/stonecolumn001a"
+	"$bumpmap" "hl2_leak/stone/stonecolumn001a_normal"
+	"$surfaceprop" "concrete"
+	
+	$color2 "[.93 .93 .93]"
+}
