@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+
+{
+ "$basetexture" "stone/stonefloor001"
+ "%keywords" "dod"
+ "$surfaceprop" "dirt"
+}
