@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// original shader: sphericalenvmapblendmaskedbasetimeslightmap
+	"$basetexture" "metal/metalfloor010a"
+	"$surfaceprop" "metalpanel"
+	"%keywords" "borealis"
+}

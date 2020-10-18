@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nature/dirtfloor006a"
+
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+	"%detailtype" "coastline_redgrass03"
+	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	"%keywords" "wasteland"
+	"$surfaceprop" "dirt"
+
+}

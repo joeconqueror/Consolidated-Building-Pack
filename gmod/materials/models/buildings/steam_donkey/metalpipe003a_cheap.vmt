@@ -1,0 +1,8 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalpipe003a"
+	"%keywords" "c17industrial"
+	"$surfaceprop" "metal"
+	
+}
