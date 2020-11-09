@@ -1,4 +1,4 @@
-"LightmappedGeneric"
+"VertexLitGeneric"
 {
-	"$basetexture" "wood/green_planks"
+	"$basetexture" "joe/wood/green_planks"
 }
