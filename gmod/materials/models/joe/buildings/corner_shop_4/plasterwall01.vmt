@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "cs_italy/plasterwall01"
+	"%keywords" "cstrike" 
+	"$surfaceprop" "plaster"
+	"$bumpmap" "cs_italy/plasterwall01_normal"
+}
