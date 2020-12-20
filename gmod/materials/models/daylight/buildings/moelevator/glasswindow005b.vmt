@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmapselfillum
+	"$basetexture" "glass/glasswindow005b"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	"%keywords" "c17industrial"
+}
