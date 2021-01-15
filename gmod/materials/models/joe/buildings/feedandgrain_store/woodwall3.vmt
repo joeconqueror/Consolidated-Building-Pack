@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "textures\wood/woodwall3"
+	"$surfaceprop" "wood"
+	"$bumpmap" "textures\wood/woodwall3_normal"
+}
