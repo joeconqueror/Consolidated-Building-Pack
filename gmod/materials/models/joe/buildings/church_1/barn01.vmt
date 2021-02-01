@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+$basetexture "textures/wood/barn01"
+$surfaceprop wood
+}
