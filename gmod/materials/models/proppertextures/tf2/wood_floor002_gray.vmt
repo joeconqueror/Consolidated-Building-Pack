@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "props_metaladon/tf2/wood_floor002_gray"
+	"$surfaceprop" "wood"
+	"%keywords" "tf"
+}
+

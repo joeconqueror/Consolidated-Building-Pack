@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "props_metaladon/tf2/glasswindow005a"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+	"%keywords" "tf"
+}

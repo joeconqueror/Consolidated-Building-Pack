@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "props_metaladon/tf2/wall016b_harbor"
+	"$surfaceprop" "metal"
+	"%keywords" "tf"
+
+}
