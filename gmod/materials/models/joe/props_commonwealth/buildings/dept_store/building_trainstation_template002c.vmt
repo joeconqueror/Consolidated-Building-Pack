@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "building_template/building_trainstation_template002c"
+	"$surfaceprop" "concrete"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .75 .75 .75]"
+	"vertexlitgeneric_dx8"
+	{
+		"$envmaptint" "[.25 .25 .25]"
+	} 
+}
