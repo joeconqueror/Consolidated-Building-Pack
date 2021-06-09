@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+	$basetexture "evenfast/brick/brick_window_7"
+	$surfaceprop brick
+
+	$detail detail\noise_detail_01
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+
+	$envmap "env_cubemap"
+	$envmapmask "evenfast/brick/brick_window_spec_4"
+}
