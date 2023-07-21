@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "joe/glass/glass_2"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"%keywords" "joe"
+		"$envmapcontrast" .6
+	"$envmapsaturation" .6
+	"$envmaptint" "[.66 .66 .66]"
+}
