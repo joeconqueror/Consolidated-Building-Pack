@@ -1,0 +1,17 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "storefront_template/storefront_template001b"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "storefront_template/storefront_template001b_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5 ]"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "7.283"
+	"$detailblendfactor" .65
+	"$detailblendmode" "0"
+}
