@@ -1,0 +1,13 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "wood/wooddoor014a"
+	"$bumpmap" "wood/wooddoor014a_normal"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .6 .6 .6 ]"
+}
