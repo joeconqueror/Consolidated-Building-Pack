@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/joe/vehicles/farmline_700_wheels"
+	"$model" 1
+}
