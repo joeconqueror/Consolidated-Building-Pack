@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metalceiling005a"
+	"$detail"		"detail\metal_detail_01"
+	"$detailscale"		"4.283000"
+	"$detailblendfactor"		"0.650000"
+	"$detailblendmode"		"0"
+	"%keywords"		"borealis"
+	"$envmaptint"		"[ .16 .16 .16 ]"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$model"		"1"
+}

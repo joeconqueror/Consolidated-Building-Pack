@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"metal\prodgratea"
+	"$alphatest"		"1"
+	"$AlphaTestReference"		"0.600000"
+	"$model"		"1"
+}
